@@ -19,5 +19,6 @@
     "**/.vscode": true,
     "**/.github": true,
     "**/.gitignore": true
-  }
+  },
+  "extensions.ignoreRecommendations": true
 }
