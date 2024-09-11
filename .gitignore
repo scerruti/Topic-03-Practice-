@@ -1,9 +1,3 @@
-### IntelliJ IDEA ###
-/.idea/
-*.iml
-*.ipr
-*.iws
-
 ### Eclipse ###
 .apt_generated
 .classpath
